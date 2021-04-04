@@ -1,0 +1,18 @@
+name: byte_size_formatter
+description: A TextInputFormatter that limits input based on byte-size
+homepage: https://github.com/mhrst/byte_size_formatter
+repository: https://github.com/mhrst/byte_size_formatter
+issue_tracker: https://github.com/mhrst/byte_size_formatter/issues
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  pedantic: ^1.11.0
+  flutter_test:
+    sdk: flutter
